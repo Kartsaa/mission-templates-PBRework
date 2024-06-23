@@ -1,0 +1,13 @@
+missionNameSpace setVariable ["gearUniform",            "UK3CB_ADA_B_U_SF_CombatUniform_01_TTC", true];
+missionNameSpace setVariable ["gearVest",               "UK3CB_ADA_B_V_TacVest_BLK", true];
+missionNameSpace setVariable ["gearBackpack",           "B_AssaultPack_Khk", true];
+missionNameSpace setVariable ["gearHeadgear",           "rhsusf_protech_helmet_ess", true];
+missionNameSpace setVariable ["gearRadio",              "TFAR_anprc152", true];
+missionNameSpace setVariable ["gearBackpackLeader",     "TFAR_rt1523_sage", true];
+missionNameSpace setVariable ["gearNightvision",        "UK3CB_ANPVS7", true];
+missionNameSpace setVariable ["gearWeapon1Use",         "ptv_m72a7", true];
+missionNameSpace setVariable ["gearWeaponMain",         ["hlc_rifle_Colt727", "rhs_mag_30Rnd_556x45_M855_Stanag", ["ptv_compm4s","hlc_acc_SF660_Barrel","muzzle_snds_M"]], true];
+missionNameSpace setVariable ["gearWeaponAR",           ["rhs_weap_m249", "rhsusf_200Rnd_556x45_M855_box", [""]], true];
+missionNameSpace setVariable ["gearWeaponGrenadier",    ["hlc_rifle_Colt727_GL", "rhs_mag_30Rnd_556x45_M855_Stanag", ["ptv_compm4s","hlc_acc_SF660_Barrel","muzzle_snds_M"], "rhs_mag_M441_HE"], true];
+missionNameSpace setVariable ["gearWeaponMarksman",     ["rhs_weap_m14_rail", "rhsusf_20Rnd_762x51_m80_Mag", ["ptv_compm4s","muzzle_snds_B","rhsusf_acc_harris_swivel"]], true];
+missionNameSpace setVariable ["gearWeaponLauncher",     ["", "", [""]], true];
